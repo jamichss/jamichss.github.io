@@ -17,10 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am a first-year Ph.D. student in Computer Science at National Yang Ming Chiao Tung University (NYCU), advised by Prof. Yu-Chih (Berrie) Chen. 
-Prior to my Ph.D. studies, I worked as a master’s student under the supervision of Prof. Yu-Lun Liu.
-
-I obtained my Bachelor’s degree in Computer Science from National Taiwan Ocean University (NTOU).
+Hello! I am a first-year Ph.D. student in Computer Science at [National Yang Ming Chiao Tung University (NYCU)](https://www.nycu.edu.tw/nycu/ch/index), advised by Prof. [Yu-Chih (Berrie) Chen](https://sites.google.com/view/berriechen). Prior to my Ph.D. studies, I worked as a master’s student under the supervision of Prof. [Yu-Lun Liu](https://yulunalexliu.github.io/). I obtained my Bachelor’s degree in Computer Science from National Taiwan Ocean University (NTOU).
 
 My research interests lie in computer vision, deep learning, generative AI, and low-level vision.
 
