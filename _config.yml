@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hau-Shiang Shiu"
   avatar           : "images/jamic_photo.png"
-  bio              : "National Yang Ming Chiao Tung University"
+  bio              : "National Yang Ming Chiao Tung University (NYCU)"
   location         : "Hsinchu, Taiwan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=9t8AcdYAAAAJ"
   email            : "xhs0964519.cs12@nycu.edu.tw"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
