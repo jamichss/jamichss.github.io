@@ -28,26 +28,56 @@ My research interests lie in computer vision, deep learning, generative AI, and 
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Shiu2025SDVSR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://jamichss.github.io/stream-diffvsr-project-page/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Hau-Shiang Shiu**, Chin-Yang Lin, Zhixiang Wang, Chi-Wei Hsiao, Po-Fan Yu, Yu-Chih Chen, Yu-Lun Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project page**](https://jamichss.github.io/stream-diffvsr-project-page/)/[**arXiv**](https://arxiv.org/abs/2512.23709)/[**code**](https://github.com/jamichss/Stream-DiffVSR)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<!----------------------------->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Chen2024NRC.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing](https://koi953215.github.io/NaRCan_page/)
+
+Ting-Hsuan Chen, Jiewen Chan, **Hau-Shiang Shiu**, Shih-Han Yen, Chang-Han Yeh, Yu-Lun Liu
+
+[**Project page**](https://koi953215.github.io/NaRCan_page/)/[**arXiv**](http://arxiv.org/abs/2406.06523)/[**code**](https://github.com/koi953215/NaRCan)
+</div>
+</div>
+
+<!----------------------------->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Yeh2024DIR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models](https://jimmycv07.github.io/DiffIR2VR_web/)
+
+Chang-Han Yeh, **Hau-Shiang Shiu**, Chin-Yang Lin, Zhixiang Wang, Chi-Wei Hsiao, Ting-Hsuan Chen, Yu-Lun Liu
+
+[**Project page**](https://jimmycv07.github.io/DiffIR2VR_web/)/[**arXiv**](https://arxiv.org/abs/2407.01519)/[**code**](https://github.com/jimmycv07/DiffIR2VR-Zero)
+</div>
+</div>
+
+<!----------------------------->
 
 # 🎖 Honors and Awards
 - *2025 ~ 2028* National Science and Technology Council (NSTC) Graduate Research Fellowship. 
 - *2021.12* Honorable Mention, Capstone Project Competition, National Taiwan Ocean University.
 - *2020.07* Undergraduate Summer Practical Learning Program Scholarship, National Taiwan Ocean University.
 
-# 📖 Educations
+# 🎓 Academic services
+- *2024.12* SIGGRAPH ASIA 2024 Student Volunteer, SIGGRAPH ASIA, Student Volunteer Program, Tokyo, Japan
+- *2024.12* NeurIPS 2024 Student Volunteer, NeurIPS Conference, Student Volunteer Program, Vancouver, Canada
+- *2024.09 ~ 2025.01* Teaching Assistant, Video Compression, National Yang Ming Chiao Tung University}{Hsinchu, Taiwan
+
+# 📖 Educations 
 - *2025.09 - present*, Ph.D. Computer Science and Engineering, National Yang Ming Chiao Tung University. 
 - *2023.09 - 2025.06*, M.S. Computer Science and Engineering, National Yang Ming Chiao Tung University.
 - *2018.09 - 2022.06*, B.S. Computer Science, National Taiwan Ocean University. 
