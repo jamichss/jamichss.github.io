@@ -73,9 +73,9 @@ Chang-Han Yeh, **Hau-Shiang Shiu**, Chin-Yang Lin, Zhixiang Wang, Chi-Wei Hsiao,
 - *2020.07* Undergraduate Summer Practical Learning Program Scholarship, National Taiwan Ocean University.
 
 # 🎓 Academic services
-- *2024.12* SIGGRAPH ASIA 2024 Student Volunteer, SIGGRAPH ASIA, Student Volunteer Program, Tokyo, Japan
-- *2024.12* NeurIPS 2024 Student Volunteer, NeurIPS Conference, Student Volunteer Program, Vancouver, Canada
-- *2024.09 ~ 2025.01* Teaching Assistant, Video Compression, National Yang Ming Chiao Tung University}{Hsinchu, Taiwan
+- *2024.12* SIGGRAPH ASIA 2024 Student Volunteer, SIGGRAPH ASIA Student Volunteer Program in Tokyo, Japan
+- *2024.12* NeurIPS 2024 Student Volunteer, NeurIPS Conference Student Volunteer Program in Vancouver, Canada
+- *2024.09 ~ 2025.01* Teaching Assistant, Video Compression, National Yang Ming Chiao Tung University in Hsinchu, Taiwan
 
 # 📖 Educations 
 - *2025.09 - present*, Ph.D. Computer Science and Engineering, National Yang Ming Chiao Tung University. 
