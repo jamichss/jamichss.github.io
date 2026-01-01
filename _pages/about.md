@@ -54,7 +54,7 @@ Ting-Hsuan Chen, Jiewen Chan, **Hau-Shiang Shiu**, Shih-Han Yen, Chang-Han Yeh, 
 
 <!----------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Yeh2024DIR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Yeh2024DIR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models](https://jimmycv07.github.io/DiffIR2VR_web/)
