@@ -28,7 +28,7 @@ My research interests lie in computer vision, deep learning, generative AI, and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Shiu2025SDVSR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/Shiu2025SDVSR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://jamichss.github.io/stream-diffvsr-project-page/)
