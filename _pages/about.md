@@ -22,9 +22,8 @@ Hello! I am a first-year Ph.D. student in Computer Science at [National Yang Min
 My research interests lie in computer vision, deep learning, generative AI, and low-level vision.
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+# 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026!
 
 # 📝 Publications 
 
