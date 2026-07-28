@@ -23,11 +23,11 @@ My research interests lie in computer vision, deep learning, generative AI, and 
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026!
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026 as an <font color="red">Oral presentation</font>!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/Shiu2025SDVSR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 Oral</div><img src='images/Shiu2025SDVSR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://jamichss.github.io/stream-diffvsr-project-page/)
